@@ -1,0 +1,56 @@
+C:\Users\feder\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\2º SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno\pryBDNeptuno-BINIA\bin\Debug\pryBDNeptuno-BINIA.exe.config
+C:\Users\feder\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\2º SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno\pryBDNeptuno-BINIA\bin\Debug\pryBDNeptuno-BINIA.exe
+C:\Users\feder\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\2º SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno\pryBDNeptuno-BINIA\bin\Debug\pryBDNeptuno-BINIA.pdb
+C:\Users\feder\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\2º SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.csproj.AssemblyReference.cache
+C:\Users\feder\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\2º SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.Properties.Resources.resources
+C:\Users\feder\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\2º SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.csproj.GenerateResource.cache
+C:\Users\feder\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\2º SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.csproj.CoreCompileInputs.cache
+C:\Users\feder\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\2º SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.exe
+C:\Users\feder\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\2º SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.pdb
+C:\Users\feder\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\2º SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.frmConsultaTablas.resources
+C:\Users\feder\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\2º SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.frmPrincipal.resources
+C:\Users\feder\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\2º SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.frmRegistrarEmpleado.resources
+C:\Users\feder\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\2º SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.frmTabladePedidos.resources
+C:\Users\feder\Escritorio\Feduki\fede\ANALISTA EN SISTEMAS\2º SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno\pryBDNeptuno-BINIA\bin\Debug\NEPTUNO.accdb
+D:\Escritorio\pryBDNeptuno-BINIA\bin\Debug\NEPTUNO.accdb
+D:\Escritorio\pryBDNeptuno-BINIA\bin\Debug\pryBDNeptuno-BINIA.exe.config
+D:\Escritorio\pryBDNeptuno-BINIA\bin\Debug\pryBDNeptuno-BINIA.exe
+D:\Escritorio\pryBDNeptuno-BINIA\bin\Debug\pryBDNeptuno-BINIA.pdb
+D:\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.csproj.AssemblyReference.cache
+D:\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.frmConsultaTablas.resources
+D:\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.frmPrincipal.resources
+D:\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.frmRegistrarEmpleado.resources
+D:\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.frmTabladePedidos.resources
+D:\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.Properties.Resources.resources
+D:\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.csproj.GenerateResource.cache
+D:\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.exe
+D:\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.pdb
+C:\Users\feder\Escritorio\pryBDNeptuno-BINIA\bin\Debug\NEPTUNO.accdb
+C:\Users\feder\Escritorio\pryBDNeptuno-BINIA\bin\Debug\pryBDNeptuno-BINIA.exe.config
+C:\Users\feder\Escritorio\pryBDNeptuno-BINIA\bin\Debug\pryBDNeptuno-BINIA.exe
+C:\Users\feder\Escritorio\pryBDNeptuno-BINIA\bin\Debug\pryBDNeptuno-BINIA.pdb
+C:\Users\feder\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.csproj.AssemblyReference.cache
+C:\Users\feder\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.frmConsultaTablas.resources
+C:\Users\feder\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.frmPrincipal.resources
+C:\Users\feder\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.frmRegistrarEmpleado.resources
+C:\Users\feder\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.frmTabladePedidos.resources
+C:\Users\feder\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno_BINIA.Properties.Resources.resources
+C:\Users\feder\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.csproj.GenerateResource.cache
+C:\Users\feder\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.csproj.CoreCompileInputs.cache
+C:\Users\feder\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.exe
+C:\Users\feder\Escritorio\pryBDNeptuno-BINIA\obj\Debug\pryBDNeptuno-BINIA.pdb
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\obj\Debug\pryBDNeptuno-BINIA.csproj.AssemblyReference.cache
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\obj\Debug\pryBDNeptuno_BINIA.frmConsultaTablas.resources
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\obj\Debug\pryBDNeptuno_BINIA.frmPrincipal.resources
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\obj\Debug\pryBDNeptuno_BINIA.frmRegistrarEmpleado.resources
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\obj\Debug\pryBDNeptuno_BINIA.frmTabladePedidos.resources
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\obj\Debug\pryBDNeptuno_BINIA.Properties.Resources.resources
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\obj\Debug\pryBDNeptuno-BINIA.csproj.GenerateResource.cache
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\obj\Debug\pryBDNeptuno-BINIA.csproj.CoreCompileInputs.cache
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\obj\Debug\pryBDNeptuno-BINIA.exe
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\obj\Debug\pryBDNeptuno-BINIA.pdb
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\bin\Debug\NEPTUNO.accdb
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\bin\Debug\pryBDNeptuno-BINIA.exe.config
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\bin\Debug\pryBDNeptuno-BINIA.exe
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\bin\Debug\pryBDNeptuno-BINIA.pdb
