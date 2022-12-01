@@ -13,8 +13,6 @@ namespace pryBDNeptuno_BINIA
     public partial class frmPrincipal : Form
     {
         private Button click;
-        private Button btnAntes;
-        private int i;
         private Form formActivo;
 
         OleDbCommand comando;
@@ -77,13 +75,12 @@ namespace pryBDNeptuno_BINIA
                     conex.ConnectionString = connectionString;
                     conex.Open();
 
-                    MessageBox.Show("Conectado a NeptunoBD", "Conexión exitosa", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Bienvenido a NeptunoDB", "Conexión exitosa", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
             catch (Exception exception)
             {
-                MessageBox.Show(exception.Message);
-                throw;
+                MessageBox.Show(exception.Message);              
             }
         }
 
@@ -129,8 +126,6 @@ namespace pryBDNeptuno_BINIA
             form.BringToFront();
             form.Show();
             lblTitulo.Text = form.Text;
-
-
         }
 
         private void btnRegEmpleado_Click(object sender, EventArgs e)

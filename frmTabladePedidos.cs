@@ -96,8 +96,7 @@ namespace pryBDNeptuno_BINIA
                 objconector.ConnectionString = "Provider = Microsoft.ACE.OLEDB.12.0; Data Source =" + Application.StartupPath + "\\NEPTUNO.accdb";
                 objconector.Open();
             }
-
-            //if (txtMin.Text = "" | txtMax.Text = "")
+                
                 string min = txtMin.Text;
                 string max = txtMax.Text;
 
@@ -112,12 +111,8 @@ namespace pryBDNeptuno_BINIA
 
                 dgvTablaPedidos.DataSource = dt;
 
-                objconector.Close();
-            
-            //else
-            //{
-            //    MessageBox.Show("Debe ingresar un cargo mínimo y máximo", "Error", MessageBoxButtons.OK, MessageBoxIcon.Stop);
-            //}
+                objconector.Close();            
+   
         }
 
         private void txtNombrePedido_TextChanged(object sender, EventArgs e)

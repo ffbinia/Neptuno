@@ -43,25 +43,28 @@ namespace pryBDNeptuno_BINIA
         {
 
             txtNombre.Focus();
-            try
+            if (conex.State != ConnectionState.Open)
             {
-                conex.ConnectionString = ruta;
-                conex.Open();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-                throw;
-            }
-            comando = new OleDbCommand("SELECT DISTINCT Jefe FROM Empleados", conex);
-            adapter = new OleDbDataAdapter(comando);
-            DataSet ds = new DataSet();
-            adapter.SelectCommand = comando;
-            adapter.Fill(ds, "Empleados");
+                try
+                {
+                    comando.Connection = conex;
+                    conex.ConnectionString = ruta;
+                    conex.Open();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                    throw;
+                }
+                comando = new OleDbCommand("SELECT DISTINCT Jefe FROM Empleados", conex);
+                adapter = new OleDbDataAdapter(comando);
+                DataSet ds = new DataSet();
+                adapter.SelectCommand = comando;
+                adapter.Fill(ds, "Empleados");
 
-            cboJefe.DataSource = ds.Tables["Empleados"];
-            cboJefe.DisplayMember = "Jefe";
-
+                cboJefe.DataSource = ds.Tables["Empleados"];
+                cboJefe.DisplayMember = "Jefe";
+            }
         }
 
         private void btnVolver_Click(object sender, EventArgs e)
@@ -95,18 +98,12 @@ namespace pryBDNeptuno_BINIA
                 {
                     MessageBox.Show("El empleado no puede ser menor de 18 años", "Edad", MessageBoxButtons.OK, MessageBoxIcon.Hand);
                 }
-
             }
             else
             {
                 try
                 {
-                    if (conex.State != ConnectionState.Open)
-                    {
-                        comando.Connection = conex;
-                        conex.ConnectionString = ruta;
-                        conex.Open();
-                    }
+    
                     string registro = "INSERT INTO Empleados (Apellidos, Nombre, Cargo, Tratamiento, FechaNacimiento," +
                         " FechaContratación, Dirección, Ciudad, Región, CódPostal, País, TelDomicilio, Extensión, Foto, Notas, Jefe) VALUES" +
                         " ('" + txtApellido.Text + "','" + txtNombre.Text + "','"

@@ -54,3 +54,5 @@ C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE P
 C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\bin\Debug\pryBDNeptuno-BINIA.exe.config
 C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\bin\Debug\pryBDNeptuno-BINIA.exe
 C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\bin\Debug\pryBDNeptuno-BINIA.pdb
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\obj\Debug\pryBDNeptuno-BINIA.csproj.SuggestedBindingRedirects.cache
+C:\Users\feder\Escritorio\Feduki\Programandoando\IES\2 SEMESTRE\LABORATORIO DE PROGRAMACION II\PRACTICA\pryBDNeptuno-BINIA-ULTIMO\obj\Debug\pryBDNeptuno_BINIA.frmMuestra.resources

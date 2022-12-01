@@ -53,6 +53,12 @@
     <Compile Include="frmConsultaTablas.Designer.cs">
       <DependentUpon>frmConsultaTablas.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmMuestra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMuestra.Designer.cs">
+      <DependentUpon>frmMuestra.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -90,6 +96,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmConsultaTablas.resx">
       <DependentUpon>frmConsultaTablas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMuestra.resx">
+      <DependentUpon>frmMuestra.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmPrincipal.resx">
       <DependentUpon>frmPrincipal.cs</DependentUpon>
